@@ -10,7 +10,7 @@ Topological Mapping: Using the Ball Mapper algorithm to cluster regions based on
 
 Geospatial Visualization: Comparative views between topological structures and UK geographical maps.
 
-![Alt Text](G:/DATA SCIENCE/TERM2/DATA70302/assignment2)
+![Gender Equality Analysis](comparison.png)
 
 📂 Project Structure
 Topological_Analysis.ipynb: The main notebook containing the full pipeline.
